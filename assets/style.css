@@ -78,6 +78,7 @@
   border: solid #a6a6a6 2px;
   text-decoration: none;
   margin-bottom: 20px;
+  cursor: pointer;
 }
 
 .btn:hover {
